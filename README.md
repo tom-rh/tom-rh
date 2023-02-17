@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A student in engineering school</h3>
+<h3 align="center">A student in engineering school and a self-employed</h3>
 
 - 📫 How to reach me **mail@tom-roth.fr**
 
