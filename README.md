@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">A student in engineering school and a self-employed</h3>
 
-- 📫 How to reach me **mail@tom-roth.fr**
+- 📫 How to reach me **contact@tom-roth.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
