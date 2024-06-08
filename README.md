@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/roth-tom" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/roth-tom" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
