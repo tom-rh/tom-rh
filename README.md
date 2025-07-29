@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">Project leader at Assurances du Crédit Mutuel</h3>
 
-- 📫 How to reach me **contact@tom-roth.fr**
+- 📫 How to reach me **roth.tom@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
