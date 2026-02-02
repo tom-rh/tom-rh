@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">Project leader at Assurances du Crédit Mutuel</h3>
+<h3 align="center">Starting a new project soon 🚀</h3>
 
 - 📫 How to reach me **roth.tom@proton.me**
 
