@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">Starting a new project soon 🚀</h3>
+<h3 align="center">Digital Solutions Consultant (<a href="https://upixto.fr" target="blank">Upixto</a>)</h3>
 
 - 📫 How to reach me **roth.tom@proton.me**
 
