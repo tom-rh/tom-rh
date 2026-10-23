@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">Digital Solutions Consultant - <a href="https://upixto.fr" target="blank">Upixto</a></h3>
 
-- 📫 How to reach me **roth.tom@proton.me**
+- 📫 How to reach me **hello@tom-roth.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
